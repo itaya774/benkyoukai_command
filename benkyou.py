@@ -1,1 +1,2 @@
 print('moyasi')
+print('moyasi')
